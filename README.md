@@ -1,8 +1,8 @@
 # CPNT-260
 ## Edgar Francis Caballero
 ### Links:
- - Github Repo: 
- - Github Pages Site:
+ - Github Repo: <a href="https://github.com/TSEidolon/cpnt260-a1" target="_blank"> CPNT260-a1 Repo </a>
+ - Github Pages Site: <a href="https://tseidolon.github.io/cpnt260-a1/" target="_blank"> Live Page </a>
 
  ### Reflection:
   - I ran into an <em> overflow </em> problem (Horizonal Scrolling) near the end of working on the assignment.
@@ -23,7 +23,7 @@
  - Added hover css classes `Lines 60-71 in style.css`.
 
 <h3> Attributions <h3>
-<li> &copy; <a href="https://www.hogwartslegacy.com/en-gb" target="_blank"> Hogwarts Legacy, 2020</a>  </li>
+    <li> &copy; <a href="https://www.hogwartslegacy.com/en-gb" target="_blank"> Hogwarts Legacy, 2020</a>  </li>
     <li>&copy; <a href="https://harrypotter.fandom.com/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry?file=Hogwartscrest.png" target="_blank">Wikipedia, Hogwarts Crest, 2021</a></li>
     <li>&copy; <a href="https://harrypotter.fandom.com/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry"> Wikipedia, Hogwarts School of Witchcraft and Wizardry, 2021</a></li>
     <li>&copy; <a href="https://harrypotter.fandom.com/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry?file=OfficialHogwartsMap.jpg"> Wikipedia, Hogwarts Grounds, 2014</a></li>
